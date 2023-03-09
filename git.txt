@@ -1,26 +1,20 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Pagina</title>
-</head>
-<body>
+q@DESKTOP-M5N09VA MINGW64 ~/documents/PROYECTO (main) 
 
-	<h1>Este es un </h1>
-	<p style="text-align: center ;">q@DESKTOP-M5N09VA MINGW64 ~/documents/PROYECTO (main)
 $ git config --global user.email cacharris6@soy.sena.edu.co (colocar correo de github)
+
 q@DESKTOP-M5N09VA MINGW64 ~/documents/PROYECTO (main)
-$ git commit -m "hola resuelto lo del email" (guardar la configuracion
+
+$ git commit -m "hola resuelto lo del email" (guardar la configuracion)
 [main (root-commit) 897415c] hola resuelto lo del email
  1 file changed, 14 insertions(+)
  create mode 100644 pagina.html
 
 q@DESKTOP-M5N09VA MINGW64 ~/documents/PROYECTO (main)
-$ git remote add origin https://github.com/Xombra-01/2545446.git(colocar la ruta de github)
+$ git remote add origin https://github.com/Xombra-01/2545446.git (colocar la ruta de github)
 
 q@DESKTOP-M5N09VA MINGW64 ~/documents/PROYECTO (main)
-$ git push -u origin main(cargar los archivos a enviar a github)
+
+$ git push -u origin main   (cargar los archivos a enviar a github)
 Enumerating objects: 3, done.
 Counting objects: 100% (3/3), done.
 Delta compression using up to 8 threads
@@ -32,7 +26,3 @@ To https://github.com/Xombra-01/2545446.git
 branch 'main' set up to track 'origin/main'.
 
 Ir al navegador y refrezcar la pagina de github
-</p>
-
-</body>
-</html>
